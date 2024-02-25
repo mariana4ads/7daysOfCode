@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+*, :root {
+    font-family: 'Inter', sans-serif;
+    margin: 0 auto;
+    padding: 0;
+   
+    /* VARIÁVEIS */
+    --cor-vermelho: #8E2424;
+    --cor-cinza: #667085;
+    --cor-logo: #3A404E;
+    --cor-preto: #101828;
+}
